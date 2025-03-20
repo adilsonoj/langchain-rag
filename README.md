@@ -1,5 +1,8 @@
 # langchain-rag
 
+![Diagrama RAG](https://python.langchain.com/assets/images/rag_concepts-4499b260d1053838a3e361fb54f376ec.png)
+
+
 Este é um projeto de Retrieval-Augmented Generation (RAG) que utiliza a tecnologia de IA para responder perguntas sobre o conteúdo do site da Nearx, utilizando OpenAI como provedores de LLM (Large Language Models).
 
 ## 🚀 Funcionalidades
